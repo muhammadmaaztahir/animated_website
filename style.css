@@ -35,7 +35,7 @@ body {
 .heroContent {
     /* background-color: red; */
     width: 50%;
-    padding: 40px 150px 40px 40px;
+    padding: 80px 150px 80px 40px;
     gap: 35px;
     /* padding-right: 150px; */
 }
@@ -913,7 +913,7 @@ body {
     .banner {
         background-image: url(./Images/mainBanner.jpg);
         width: 100%;
-        height: 28.2vh;
+        height: 29.6vh;
         background-size: contain;
         background-repeat: no-repeat;
         background-position: 100% 0%;
